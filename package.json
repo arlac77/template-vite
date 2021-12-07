@@ -11,5 +11,8 @@
     "vite": "^2.7.0"
   },
   "template": {
+    "usedBy": [
+      "konsumation/konsum-frontend-svelte"
+    ]
   }
 }
