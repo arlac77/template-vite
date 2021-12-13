@@ -8,7 +8,7 @@
     "serve": "vite preview"
   },
   "devDependencies": {
-    "vite": "^2.7.1"
+    "vite": "^2.7.2"
   },
   "template": {
     "usedBy": [
