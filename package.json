@@ -11,6 +11,9 @@
     "vite": "^2.7.13"
   },
   "template": {
+    "properties": {
+      "testcafe": { "app": "vite" }
+    },
     "usedBy": [
       "arlac77/mf-styling",
       "konsumation/konsum-frontend-svelte"
