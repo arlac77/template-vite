@@ -12,7 +12,9 @@
   },
   "template": {
     "properties": {
-      "testcafe": { "app": "vite" }
+      "testcafe": {
+        "app": "vite"
+      }
     },
     "usedBy": [
       "arlac77/mf-styling",
