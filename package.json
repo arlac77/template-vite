@@ -4,8 +4,10 @@
   ],
   "scripts": {
     "prepare": "vite build",
-    "dev": "vite",
-    "serve": "vite preview"
+    "start": "vite",
+    "preview": "vite preview",
+    "serve": "--delete--",
+    "dev": "--delete--"
   },
   "devDependencies": {
     "vite": "^2.9.9"
