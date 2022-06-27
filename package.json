@@ -10,7 +10,7 @@
     "dev": "--delete--"
   },
   "devDependencies": {
-    "vite": "^2.9.12"
+    "vite": "^2.9.13"
   },
   "template": {
     "properties": {
