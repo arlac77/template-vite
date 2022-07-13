@@ -4,7 +4,7 @@
   ],
   "scripts": {
     "prepare": "vite build",
-    "start": "vite dev",
+    "start": "--overwrite-- vite",
     "preview": "vite preview",
     "serve": "--delete--",
     "dev": "--delete--"
