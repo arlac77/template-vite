@@ -19,6 +19,7 @@
       }
     },
     "usedBy": [
+      "arlac77/mf-examples",
       "arlac77/mf-styling",
       "konsumation/konsum-frontend-svelte"
     ]
