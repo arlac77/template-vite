@@ -15,7 +15,7 @@
   "template": {
     "properties": {
       "testcafe": {
-        "app": "vite"
+        "app": "\"vite preview\""
       }
     },
     "usedBy": [
