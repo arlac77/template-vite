@@ -4,10 +4,8 @@
   ],
   "scripts": {
     "prepare": "vite build",
-    "start": "--overwrite-- vite",
-    "preview": "vite preview",
-    "serve": "--delete--",
-    "dev": "--delete--"
+    "start": "vite",
+    "preview": "vite preview"
   },
   "devDependencies": {
     "vite": "^4.0.4"
