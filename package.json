@@ -18,6 +18,7 @@
     },
     "usedBy": [
       "arlac77/mf-styling",
+      "arlac77/resume-renderer",
       "konsumation/konsum-frontend-svelte"
     ]
   }
