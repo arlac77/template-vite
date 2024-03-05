@@ -3,7 +3,8 @@
     "vite"
   ],
   "scripts": {
-    "prepare": "vite build",
+    "prepare": "--overwrite-- npm run prepare:vite",
+    "prepare:vite": "vite build",
     "start": "vite",
     "preview": "vite preview"
   },
