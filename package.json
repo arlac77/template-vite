@@ -20,7 +20,7 @@
     "usedBy": [
       "arlac77/mf-styling",
       "arlac77/resume-renderer-example",
-      "konsumation/konsum-frontend-svelte"
+      "konsumation/frontend-svelte"
     ]
   }
 }
