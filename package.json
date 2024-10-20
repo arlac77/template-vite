@@ -3,7 +3,7 @@
     "vite"
   ],
   "scripts": {
-    "prepare": "npm run prepare:vite",
+    "prepare": "node --run prepare:vite",
     "prepare:vite": "vite build",
     "start": "vite",
     "preview": "vite preview"
