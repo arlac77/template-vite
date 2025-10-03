@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^7.1.8"
+    "vite": "^7.1.9"
   },
   "template": {
     "properties": {
