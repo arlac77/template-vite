@@ -13,6 +13,9 @@
   },
   "template": {
     "properties": {
+      "test": {
+        "base_url": "http://localhost:5173/"
+      },
       "testcafe": {
         "app": "vite"
       }
